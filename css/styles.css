@@ -30,10 +30,6 @@ img {
   margin: 0 auto;
 }
 
-section {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
 
 .link-logo {
   padding: 25.5px 76px 25.5px 0;
@@ -100,7 +96,7 @@ section {
 }
 
 .contacts {
-  font-style: normal;
+  font-style: normal; 
   margin-left: auto;
 }
 
@@ -182,8 +178,9 @@ section {
 
 /* ===Section 2=== */
 
+
 .features {
-  margin: 0 auto;
+  margin: 0 auto; padding: 120px 0;
 }
 
 .visually-hidden {
@@ -235,8 +232,7 @@ section {
 .team {
   background-color: #f4f4fd;
   justify-content: center;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .team-title {
@@ -289,6 +285,8 @@ section {
 }
 
 /* ===Section 4=== */
+
+.portfolio {padding: 120px 0;}
 
 .portfolio-title {
   color: #2e2f42;
