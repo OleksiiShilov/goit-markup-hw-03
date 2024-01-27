@@ -1,5 +1,9 @@
 /* ====Margin and Padding==== */
 
+body {
+  font-family: "Roboto", sans-serif;}
+
+
 h1,
 h2,
 h3,
@@ -31,9 +35,6 @@ img {
 }
 
 
-.link-logo {
-  padding: 25.5px 76px 25.5px 0;
-}
 
 /* ===Header=== */
 
@@ -62,6 +63,7 @@ img {
   letter-spacing: 0.03em;
   margin-right: 76px;
   align-items: center;
+  padding: 24px 0;
 }
 
 .logo-studio {
